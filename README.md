@@ -5,20 +5,11 @@
 </div>
 <div class="body">
   <div>
-    <h2>About me</h2>
+    <h2>✨About me✨</h2>
     <img align='right' src="https://media.giphy.com/media/kFHYyrqJesGESSGBCS/giphy.gif" width="180">
-    <p><em>Étudiante à l' <a href="https://www.utbm.fr">Université de technologie de Belfort Montbéliard </a><img        src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="40"></em></p>       
+    <p><em>Student at <a href="https://www.utbm.fr">Université de technologie de Belfort Montbéliard </a> <img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="40"></em></p>
+    
   </div>
-  <details>
-    <summary>My top languages</summary>
-
-      | Rank | Languages |
-      |-----:|-----------|
-      |     1| Javascript|
-      |     2| Python    |
-      |     3| SQL       |
-  
-  </details>
 </div class="body">
 </body>
 <!--
