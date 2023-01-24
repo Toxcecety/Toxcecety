@@ -1,7 +1,26 @@
-<h2> ✨ Hi, I'm Céliane!! ✨ <img src="https://media.giphy.com/media/l66EHxcbQV7ZShivXR/giphy.gif" width="100"<</h2>
-<img align='right' src="https://media.giphy.com/media/kFHYyrqJesGESSGBCS/giphy.gif" width="180">
-<p><em>Étudiante à l' <a href="https://www.utbm.fr">Université de technologie de Belfort Montbéliard</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
+<body>
+<div class="header">
+  <h1>Hi, I'm Céliane!! <img src="https://media.giphy.com/media/rd8yeixaoKm9ix5f5L/giphy.gif" width="25"<</h1>
+</div>
+<div class="body">
+  <div>
+    <h2>About me</h2>
+    <img align='right' src="https://media.giphy.com/media/kFHYyrqJesGESSGBCS/giphy.gif" width="180">
+    <p><em>Étudiante à l' <a href="https://www.utbm.fr">Université de technologie de Belfort Montbéliard </a><img        src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="40"></em></p>       
+  </div>
+  <details>
+    <summary>My top languages</summary>
+
+      | Rank | Languages |
+      |-----:|-----------|
+      |     1| Javascript|
+      |     2| Python    |
+      |     3| SQL       |
+  
+  </details>
+</div class="body">
+</body>
 <!--
 **Toxcecety/Toxcecety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
