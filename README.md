@@ -6,7 +6,7 @@
 <div class="body">
   <div>
     <h2>✨About me✨</h2>
-    <img align='right' src="https://media.giphy.com/media/kFHYyrqJesGESSGBCS/giphy.gif" width="180">
+    <img align='right' src="https://media.giphy.com/media/kFHYyrqJesGESSGBCS/giphy.gif" width="200">
     <p><em>Student at <a href="https://www.utbm.fr">Université de technologie de Belfort Montbéliard </a></em></p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxcecety" />
     <p><em>Currently working on updating my very outdated git with all of my school projects...</em></p>
