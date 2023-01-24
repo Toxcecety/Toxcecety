@@ -8,7 +8,6 @@
     <h2>✨About me✨</h2>
     <img align='right' src="https://media.giphy.com/media/kFHYyrqJesGESSGBCS/giphy.gif" width="180">
     <p><em>Student at <a href="https://www.utbm.fr">Université de technologie de Belfort Montbéliard </a> <img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="40"></em></p>
-    
   </div>
 </div class="body">
 </body>
