@@ -1,10 +1,6 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-### Hi there 👋
+<h2> ✨ Hi, I'm Céliane!! ✨ <img src="https://media.giphy.com/media/l66EHxcbQV7ZShivXR/giphy.gif" width="50"<</h2>
+<img align='right' src="https://media.giphy.com/media/kFHYyrqJesGESSGBCS/giphy.gif" width="230">
+<p><em>étudiante à l' <a href="https://www.utbm.fr">Université Technologique de Belfort Montbéliard</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 <!--
 **Toxcecety/Toxcecety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
